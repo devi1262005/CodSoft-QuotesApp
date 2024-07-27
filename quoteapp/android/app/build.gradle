@@ -24,7 +24,7 @@ if (flutterVersionName == null) {
 
 android {
     namespace "com.example.quoteapp"
-    compileSdkVersion flutter.compileSdkVersion
+    compileSdkVersion 34  // Updated compileSdkVersion to 34
     ndkVersion flutter.ndkVersion
 
     compileOptions {
